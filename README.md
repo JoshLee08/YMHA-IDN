@@ -1,2 +1,2 @@
 # YMHA-IDN
-Project to segment 2D brian functions
+Project to segment 2D brain functions
