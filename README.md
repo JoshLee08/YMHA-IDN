@@ -1,7 +1,10 @@
 # YMHA-IDN
 
+## Slides Link
+https://docs.google.com/presentation/d/1droMrv9nFh_IW5n8VUGa0r2s5fKz82XPa4Atdcbaodo/edit?slide=id.g372686d56b3_0_15#slide=id.g372686d56b3_0_15 
+
 ## Project description
-Project to segment 2D brain sections. You can create **bold** and *italic* fonts.
+Project to segment 2D brain sections. Used multiple methods (GIMP, Otsu-Threshold, K-Means Clustering).
 
 
 ## Manual Annotations
